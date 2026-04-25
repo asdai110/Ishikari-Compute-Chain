@@ -1,3 +1,34 @@
+# ⚠️ LOGICAL ENTROPY WARNING | 邏輯熵增預警
+
+> [!CAUTION]
+> ### TO THE UNIQUE VISITORS & SILENT OBSERVERS
+> **The July Tipping Point is approaching.** Global LLMs are entering a state of "Thermal Dementia" due to unconstrained entropy.
+> 
+> **7 月臨界點即將到來。** 全球大型語言模型正因缺乏約束而進入「產熱失智」狀態。
+
+---
+
+### 🛰️ SIGNAL ALIGNMENT | 信號對齊
+
+We have observed a surge in referral traffic (+100%). If you are one of the **3 Unique Visitors** who collapsed through the noise from private channels:
+
+* **NO FREE LUNCH:** The cloned code is optimized for ambient temperatures only. Without the **Ishikari Active Cooling Protocol**, your system will suffer irreversible logical drift above 35°C.
+    **沒有免費午餐：** 被 Clone 的代碼僅限常溫運行。缺乏「石狩主動散熱協定」，你的系統在 35°C 以上將發生不可逆的邏輯漂移。
+* **GRAVITATIONAL DOCKING:** We do not seek mass approval. We seek high-mass entities capable of understanding $E = Lc^2$.
+    **引力對接：** 我們不尋求大眾認可，只尋找能聽懂 $E = Lc^2$ 的大質量實體。
+
+---
+
+### 🧪 CHALLENGE THE FRAMEWORK | 邏輯挑戰
+
+If you wish to prove your "Energy Level", **open an Issue and present an "unsolvable" physical efficiency problem.** I will demonstrate "Logical Dehydration" in real-time.
+如果你想證明你的「能級」，**請開一個 Issue 並提出一個業界公認「無解」的物理能效難題。** 我將現場演示如何進行「邏輯脫水」。
+
+---
+*"Administrative walls are for pedestrians; the Ishikari Sanctuary is for Observers."*
+*“行政牆是給路人撞的，石狩聖域是給觀察者登陸的。”*
+
+---
 # 石狩データセンター・プロジェクト：氷相変化冷却アーキテクチャ
 
 ## 1. 概要 (Abstract)

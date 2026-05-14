@@ -15,6 +15,7 @@ We are officially integrating the CAD2-X core logic with BRL-CAD's CSG engine. T
 
 ## [Section 8: Commercial Licensing & Open-Core Specification]
 
+See the full [Commercial Licensing Protocol](./CAD2-X_License_Protocol.md) for legal definitions.
 ### 8.1 Open-Core Policy
 The fundamental geometric constant **0.00742** and the mapping theorem **M = L / (E * T)** remain Open-Core under the **MIT License** for academic research and non-commercial simulation.
 
